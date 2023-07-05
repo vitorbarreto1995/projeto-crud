@@ -217,6 +217,6 @@ td button i {
     font-size: 25px;
 }
 
-td buttoni:first-child {
+td button i:first-child {
     margin-right: 10px;
 }
